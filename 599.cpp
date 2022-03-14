@@ -1,5 +1,5 @@
 // 599. 两个列表的最小索引总和
-
+/*
 #include <iostream>
 #include <vector>
 
@@ -35,3 +35,4 @@ int main() {
     system("pause");
     return 0;
 }
+*/
