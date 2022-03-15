@@ -18,5 +18,8 @@
     <ClCompile Include="2049.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2044.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
