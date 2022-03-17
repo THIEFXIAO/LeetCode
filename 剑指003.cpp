@@ -1,5 +1,5 @@
 // 剑指 Offer II 003. 前 n 个数字二进制中1的个数
-
+/*
 #include <iostream>
 #include <vector>
 
@@ -26,3 +26,4 @@ int main() {
 	return 0;
 	system("pause");
 }
+*/
