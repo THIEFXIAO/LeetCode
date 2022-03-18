@@ -1,5 +1,5 @@
 // 2044. 统计按位或能得到最大值的子集数目
-
+/*
 
 #include <iostream>
 #include <vector>
@@ -36,3 +36,4 @@ int main() {
     system("pause");
     return 0;
 }
+*/
