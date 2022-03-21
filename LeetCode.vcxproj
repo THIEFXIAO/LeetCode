@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="599.cpp" />
     <ClCompile Include="606.cpp" />
+    <ClCompile Include="653.cpp" />
     <ClCompile Include="720.cpp" />
     <ClCompile Include="剑指003.cpp" />
   </ItemGroup>

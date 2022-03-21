@@ -1,5 +1,5 @@
 // 606. 根据二叉树创建字符串
-
+/*
 #include <iostream>
 #include <vector>
 #include <string>
@@ -31,5 +31,6 @@ string tree2str(TreeNode* root) {
     }
     return to_string(root->val) + "(" + tree2str(root->left) + ")" + "(" + tree2str(root->right) + ")";
 }
+*/
 
 
