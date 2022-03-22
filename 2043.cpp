@@ -1,5 +1,5 @@
 // 2043. 简易银行系统
-
+/*
 #include <vector>
 #include <iostream>
 
@@ -39,3 +39,4 @@ int main() {
 	return 0;
 	system("pause");
 }
+*/
