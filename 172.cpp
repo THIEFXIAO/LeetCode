@@ -1,5 +1,6 @@
 // 172. ½×³ËºóµÄÁã
 
+/*
 #include<iostream>
 
 using namespace std;
@@ -21,3 +22,4 @@ int main() {
 
 	return 0;
 }
+*/
