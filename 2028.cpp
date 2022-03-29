@@ -1,5 +1,6 @@
 // 2028. 找出缺失的观测数据
 
+/*
 #include <iostream>
 #include <vector>
 
@@ -42,6 +43,7 @@ int main() {
 	return 0;
 	system("pause");
 }
+*/
 
 /*这题递归是真的难，我是傻逼*/
 /*
