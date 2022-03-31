@@ -1,7 +1,7 @@
 // 693. 交替位二进制数
 
 // 简单题我重拳出击，==的优先级居然在&前面，绝了
-
+/*
 #include <iostream>
 
 using namespace std;
@@ -25,3 +25,4 @@ int main() {
 	
 	return 0;
 }
+*/
