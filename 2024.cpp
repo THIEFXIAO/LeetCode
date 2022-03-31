@@ -2,6 +2,7 @@
 
 // 看了官解也是双指针，但是他维护的是T和F的数量，比我每个条件判断简单多了
 
+/*
 #include <iostream>
 #include <string>
 
@@ -60,3 +61,4 @@ int main() {
 
 	return 0;
 }
+*/
