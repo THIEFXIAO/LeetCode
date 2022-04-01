@@ -1,5 +1,6 @@
 // 20. ÓÐÐ§µÄÀ¨ºÅ
 
+/*
 #include<iostream>
 #include<string>
 #include<stack>
@@ -24,3 +25,4 @@ int main() {
 	if (brackets.empty()) return 1;
 	return 0;
 }
+*/
