@@ -1,20 +1,31 @@
 // 780. µΩ¥Ô÷’µ„
 
+// 1 <= sx, sy, tx, ty <= 109
+
+/*
 #include<iostream>
 
-void main() {
+bool reachingPoints(int sx, int sy, int tx, int ty) {
 
-	int sx = 1, sy = 1, tx = 3, ty = 5;
-
-	while (tx > sx || ty > sy)
+	while (tx > sx && ty > sy && tx != ty)
 	{
-		if (tx > ty)tx -= ty;
-		else ty -= tx;
-		if (tx == sx && ty == sy)
-		{
-			std::cout << "true" << std::endl;
-			return;
-		}
+		if (tx > ty) tx %= ty;
+		else ty %= tx;
 	}
-	std::cout << "false" << std::endl;
+
+	if (sx > tx || sy > ty) return false;
+	if (sx == tx)return ((ty - sy) % tx == 0);
+	if (sy == ty)return ((tx - sx) % ty == 0);
+	return false;
 }
+
+
+int main() {
+
+	int sx = 1, sy = 7, tx = 14, ty = 7;
+
+	std::cout << reachingPoints(1, 1, 2, 2) << std::endl;
+	
+	return 0;
+}
+*/
