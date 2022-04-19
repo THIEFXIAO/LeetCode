@@ -157,6 +157,7 @@
     <ClCompile Include="804.cpp" />
     <ClCompile Include="806.cpp" />
     <ClCompile Include="819.cpp" />
+    <ClCompile Include="821.cpp" />
     <ClCompile Include="剑指003.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
