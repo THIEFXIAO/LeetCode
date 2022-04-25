@@ -1,6 +1,6 @@
 // 398. Ëæ»úÊıË÷Òı
 
-
+/*
 #include<iostream>
 #include<vector>
 
@@ -47,3 +47,4 @@ int main() {
 
     return 0;
 }
+*/
