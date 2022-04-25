@@ -1,6 +1,6 @@
 // 398. Ëæ»úÊýË÷Òý
 
-/*
+
 #include<iostream>
 #include<vector>
 
@@ -41,8 +41,9 @@ int main() {
 
     vector<int>nums{ 1,3,3,2,4,2 };
     Solution *a=new Solution(nums);
-    int param = a->pick(2);
+    cout << a->pick(4) << endl;
+    Solution b(nums);
+    cout << b.pick(4) << endl;
 
     return 0;
 }
-*/
