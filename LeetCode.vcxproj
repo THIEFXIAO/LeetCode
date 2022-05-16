@@ -159,6 +159,7 @@
     <ClCompile Include="449.cpp" />
     <ClCompile Include="754.cpp" />
     <ClCompile Include="954.cpp" />
+    <ClCompile Include="面试题0406.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
