@@ -160,6 +160,7 @@
     <ClCompile Include="821.cpp" />
     <ClCompile Include="933.cpp" />
     <ClCompile Include="953.cpp" />
+    <ClCompile Include="961.cpp" />
     <ClCompile Include="剑指003.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
